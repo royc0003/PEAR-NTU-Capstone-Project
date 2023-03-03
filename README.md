@@ -1,5 +1,5 @@
 # PEAR-NTU-Capstone-Project
-A React Native Mobile Expo Application to assist healthcare caregivers provide an optimal healthcare to patients with dementia.
+A React Native Mobile Expo Application to assist healthcare caregivers with providing an optimal healthcare to patients with dementia.
 
 Note: Due to NTU's copyright policy, the code won't be uploaded.
 
